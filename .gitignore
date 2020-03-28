@@ -1,0 +1,52 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+package.json
+yarn.lock
+config/webpack.config.js
+public/index.html
+src/App.css
+src/App.js
+src/index.css
+src/assets/img/rizki wisuda.PNG
+src/assets/img/wahyu wisuda.PNG
+src/components/Burger/Burger.css
+src/components/Burger/Burger.jsx
+src/components/Burger/BuildControls/BuildControls.css
+src/components/Burger/BuildControls/BuildControls.jsx
+src/components/Burger/BuildControls/BuildControl/BuildControl.css
+src/components/Burger/BuildControls/BuildControl/BuildControl.jsx
+src/components/Burger/BurgerIngredients/BurgerIngredient.css
+src/components/Burger/BurgerIngredients/BurgerIngredient.jsx
+src/components/Layout/Layout.css
+src/components/Layout/Layout.jsx
+src/containers/BurgerBuilder/BurgerBuilder.jsx
+src/hoc/Aux.js
+package.json
+yarn.lock
+config/webpack.config.js
+public/index.html
+src/App.css
+src/App.js
+src/index.css
